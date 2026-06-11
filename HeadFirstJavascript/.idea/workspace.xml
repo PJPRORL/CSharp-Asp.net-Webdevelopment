@@ -21,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed/chapter8/Starting Point/css/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed/chapter8/Starting Point/scripts/battleship.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed" beforeDir="false" afterPath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed/chapter8/battleship.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed/chapter8/battleship.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Head-First-JavaScript-Programming-2nd-Ed/chapter8/battleship_final.html" beforeDir="false" />
@@ -115,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779375602640</updated>
       <workItem from="1779375603696" duration="31154000" />
-      <workItem from="1780522067104" duration="6775000" />
+      <workItem from="1780522067104" duration="7390000" />
     </task>
     <servers />
   </component>
